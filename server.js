@@ -1,14 +1,14 @@
 /********************************************************************************
-*  WEB322 – Assignment 05
+*  WEB322 – Assignment 06
 * 
 *  I declare that this assignment is my own work in accordance with Seneca's
 *  Academic Integrity Policy:
 * 
 *  https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
 * 
-*  Name: Connor McDonald        Student ID: 136123221      Date: 11/15/2023
+*  Name: Connor McDonald        Student ID: 136123221      Date: 12/2/2023
 *
-*  Published URL: https://itchy-dog-cuff.cyclic.app/
+*  Published URL: 
 *
 ********************************************************************************/
 
@@ -64,13 +64,6 @@ app.get('/about', (req, res) => {
 
 // Client Session Middleware
 // -------------------------
-
-/*
-DEFAULT USER:
-  userName: admin
-  password: password
-  email: admin@email.com
-*/
 
 app.get('/login', (req, res) => {
   res.render('login');
