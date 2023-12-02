@@ -8,7 +8,7 @@
 * 
 *  Name: Connor McDonald        Student ID: 136123221      Date: 12/2/2023
 *
-*  Published URL: 
+*  Published URL: https://vast-cyan-rattlesnake-suit.cyclic.app/
 *
 ********************************************************************************/
 
